@@ -57,7 +57,7 @@ It features user authentication, personalized bookmarks, and a clean, responsive
 
 #### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/dailypulse-news.git
+git clone https://github.com/ernesto571/dailypulse-news.git
 cd dailypulse-news
 ```
 
